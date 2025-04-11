@@ -18,11 +18,11 @@ needs_id_prefix = "MODA_"
 needs_id_required = True
 
 # ✅ Proper export settings
-needs_json_export = True
-needs_json_filename = "needs.json"
+needs_build_json = True
 needs_json_indent = 2
 
 # ✅ Versioning (important!)
+needs_extra_options = ["version"]
 needs_version = "v1"
 needs_versions = {"v1": "Initial version"}
 needs_current_version = "v1"
