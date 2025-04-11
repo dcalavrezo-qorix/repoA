@@ -13,6 +13,7 @@ extensions = [
 # Give each repo a unique ID prefix
 needs_id_prefix = "MODA_"   
 needs_id_required = True   
+needs_build_json = True
 
 
 # Paths: include your docs folder so Sphinx can find index.rst
