@@ -9,6 +9,7 @@ logger.setLevel(logging.DEBUG)
 project = 'RepoA'
 author = 'Dan'
 release = '0.1'
+version = "v1"
 
 extensions = [
     'sphinx_needs',
