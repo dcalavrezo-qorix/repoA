@@ -7,5 +7,6 @@ Here is a single test need:
 
 .. req:: My first requirement from Repo A
    :id: MODA_001
+   :version: v1
 
    This requirement belongs to Repo A.
